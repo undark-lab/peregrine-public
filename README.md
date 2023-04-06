@@ -37,4 +37,4 @@ Currently, PEREGRINE is not a completely public repository, **however**, it is p
 ## Data availability
 
 - To access data related to research involving PEREGRINE, please visit our [Zenodo](https://zenodo.org/communities/peregine/?page=1&size=20) community.
-- [PEREGRINE: Sequential simulation based inference for gravitational wave signals (DATASET)](https://zenodo.org/deposit/7788596)
+- [PEREGRINE: Sequential simulation based inference for gravitational wave signals (DATASET)](https://zenodo.org/record/7788596)
