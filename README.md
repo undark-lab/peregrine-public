@@ -9,7 +9,15 @@
 - **Citation:** If you use PEREGRINE in your analysis, or find it useful, we would ask that you please use the following citation.
 - **Access:** Find out how to request access to PEREGRINE below!
 ```
-@article{...}
+@article{Bhardwaj:2023xph,
+    author = "Bhardwaj, Uddipta and Alvey, James and Miller, Benjamin Kurt and Nissanke, Samaya and Weniger, Christoph",
+    title = "{Peregrine: Sequential simulation-based inference for gravitational wave signals}",
+    eprint = "2304.02035",
+    archivePrefix = "arXiv",
+    primaryClass = "gr-qc",
+    month = "4",
+    year = "2023"
+}
 ```
 
 <img align="center" height="350" src="./images/peregrine_schematic.png"> 
