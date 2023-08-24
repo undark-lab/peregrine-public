@@ -25,14 +25,10 @@
 
 ----
 ## Accessing PEREGRINE
-
-Currently, PEREGRINE is not a completely public repository, **however**, it is possible to **request access** to the full implementation as follows:
-1. Complete the google form [Form: request access to PEREGRINE](https://forms.gle/PrQMebkKnAYqR4PS8) which will ask for your name, email, affiliation, and Github ID
-2. You will then recieve a confirmation email (and a notification from Github) that we have added you to the private PEREGRINE repository
-3. All installation instructions, descriptions of configuration setups, and full implementation of the TMNRE algorithm will be available 
-4. You will also then be added to a mailing list where we announce future releases, bug fixes and updates. In addition you can support and raise issues here.
-
-[<img align="center" height="500" src="./images/peregrine_google_form.png">](https://forms.gle/PrQMebkKnAYqR4PS8)
+- **PEREGRINE** is now fully public and available at [https://github.com/PEREGRINE-GW/peregrine]
+- Public branches:
+    - `gw_2G` --> `cbc` with no changes.
+    - `overlapping` for analysing overlapping signals.
 
 ----
 ## Data availability
